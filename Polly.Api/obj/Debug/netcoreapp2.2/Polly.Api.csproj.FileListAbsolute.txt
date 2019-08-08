@@ -1,0 +1,14 @@
+C:\POLLY\API\Polly.Api\Polly.Api\bin\Debug\netcoreapp2.2\Polly.Api.deps.json
+C:\POLLY\API\Polly.Api\Polly.Api\bin\Debug\netcoreapp2.2\Polly.Api.runtimeconfig.json
+C:\POLLY\API\Polly.Api\Polly.Api\bin\Debug\netcoreapp2.2\Polly.Api.runtimeconfig.dev.json
+C:\POLLY\API\Polly.Api\Polly.Api\bin\Debug\netcoreapp2.2\Polly.Api.dll
+C:\POLLY\API\Polly.Api\Polly.Api\bin\Debug\netcoreapp2.2\Polly.Api.pdb
+C:\POLLY\API\Polly.Api\Polly.Api\obj\Debug\netcoreapp2.2\Polly.Api.csprojAssemblyReference.cache
+C:\POLLY\API\Polly.Api\Polly.Api\obj\Debug\netcoreapp2.2\Polly.Api.csproj.CoreCompileInputs.cache
+C:\POLLY\API\Polly.Api\Polly.Api\obj\Debug\netcoreapp2.2\Polly.Api.RazorAssemblyInfo.cache
+C:\POLLY\API\Polly.Api\Polly.Api\obj\Debug\netcoreapp2.2\Polly.Api.RazorAssemblyInfo.cs
+C:\POLLY\API\Polly.Api\Polly.Api\obj\Debug\netcoreapp2.2\Polly.Api.AssemblyInfoInputs.cache
+C:\POLLY\API\Polly.Api\Polly.Api\obj\Debug\netcoreapp2.2\Polly.Api.AssemblyInfo.cs
+C:\POLLY\API\Polly.Api\Polly.Api\obj\Debug\netcoreapp2.2\Polly.Api.RazorTargetAssemblyInfo.cache
+C:\POLLY\API\Polly.Api\Polly.Api\obj\Debug\netcoreapp2.2\Polly.Api.dll
+C:\POLLY\API\Polly.Api\Polly.Api\obj\Debug\netcoreapp2.2\Polly.Api.pdb
